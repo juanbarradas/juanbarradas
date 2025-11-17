@@ -6,12 +6,13 @@ Habilidades Clave:
 - Desarrollo Web, Desktop y Mobile.
 - Aplicaciones administrativas, contables, nómina, control de inventarios y logística.
 - Implementación y optimización de procesos.
-- Experiencia en lenguajes de programación C++, C#, PHP, Pascal, Python, VisualBasic.
+- Experiencia en lenguajes de programación C++, C#, PHP, Pascal, Python, VisualBasic, JavaScript, TypeScript.
+- Administración de bases de datos: SQL Server, MySQL, PostgreSQL, Firebird.
 
 **Rescate y gestión de emergencias:**
 - Planificación de búsqueda y rescate en media montaña.
 - Gestión logística de suministros de emergencias.
-- Habilidades de liderazgo, trabajo en equipo y toma de decisiones bajo presión.
+- Habilidades de liderazgo, trabajo en equipo y toma de decisiones.
 
 **Habilidades Personales:**
 - Excelente capacidad de análisis y resolución de problemas.
